@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Adding some code.
+=======
+Fix1
+>>>>>>> afdbf8b... Adding Fix1
